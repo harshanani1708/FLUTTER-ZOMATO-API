@@ -1,0 +1,26 @@
+import 'package:flutter/material.dart';
+
+const Color primaryTextColorBlue = Color(0xFF173143);
+const Color primaryTextColorGrey = Color(0xFF9D9D9D);
+const Color actionColorLightGreen = Color(0xFF52CB8C);
+const Color actionColorDarkGreen = Color(0xFF01B460);
+const Color errorStateLightRed = Color(0xFFFF4C4C);
+const Color errorStateBrightRed = Color(0xFFD0021B);
+const Color highlighterPink = Color(0xFFFF6961);
+const Color highlighterBlue = Color(0xFF69A7EE);
+const Color highlighterBlueDark = Color(0xFF4990E2);
+const Color highlighterGold = Color(0xFFE6DA71);
+const Color highlighterGoldDark = Color(0xFFAB9355);
+const Color gold = Color(0xFFd4af38);
+const Color highlighterOrange = Color(0xFFD0021B);
+const Color backgroundColorGrey = Color(0xFFEFEFEF);
+const Color separatorGrey = Color(0xFFEAEAEA);
+const Color whiteColor = Color(0xFFFFFFFF);
+const Color blackColor = Color(0xFF000000);
+const Color persianColor = Color(0xFF00a890);
+const kBackgroundColor = Color(0xFFF1EFF1);
+const kPrimaryColor = Color(0xFF035AA6);
+const kSecondaryColor = Color(0xFFFFA41B);
+const kTextColor = Color(0xFF000839);
+const kTextLightColor = Color(0xFF747474);
+const kBlueColor = Color(0xFF40BAD5);
